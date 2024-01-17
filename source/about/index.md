@@ -24,6 +24,9 @@ Registered users may [submit articles](../help/submit.md) to be announced by arX
 - [Business Model](reports-financials.md)
 - [Annual Reports and Financials](reports/index.md)
 
+
+CARLOS A. Maldonado Virella
+
 ## Membership & Giving
 
 - [Institutional Membership Program](membership.md)
