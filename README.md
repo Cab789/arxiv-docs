@@ -114,3 +114,6 @@ Direct commits to the `develop` branch will not generate a preview.
 
 ## Historical site content
 See https://github.com/arXiv/arxiv-docs/releases for branches prior to 2023 when content was shifted to the source/ directory.
+
+## Purpose of this repository
+To connect, use and deploy the assets, researches and all types of data benevolently with my current businesses investments, corporations, funds, cryptocurrency, patents and copyrights. All this done from my personal, business and corporative configuration. 
